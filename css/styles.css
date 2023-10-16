@@ -622,11 +622,11 @@ img {
   margin-bottom: 8px;
 }
 
-.modal-field .bottom-field {
+.bottom-field {
   margin-bottom: 16px;
 }
 
-.modal-field .bottom-field {
+.bottom-modal-field {
   margin-bottom: 24px;
 }
 
@@ -681,7 +681,7 @@ img {
   line-height: 1.17;
 }
 
-.check-text .modal.span {
+.modal.span {
   width: 16px;
   height: 16px;
   margin-right: 8px;
@@ -694,6 +694,9 @@ img {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+
+.checkbox-input {
 }
 .checkbox-input:checked .modal.span {
   background-color: #404bbf;
