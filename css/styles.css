@@ -618,6 +618,12 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.send-buttom:hover {
+  background-color: #404bbf;
+}
+.send-buttom:focus {
+  background-color: #404bbf;
+}
 .modal-field {
   margin-bottom: 8px;
 }
@@ -758,7 +764,12 @@ img {
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
+.subscribe-btn:hover {
+  background-color: #404bbf;
+}
+.subscribe-btn:focus {
+  background-color: #404bbf;
+}
 .footer-form {
   display: flex;
   gap: 24px;
