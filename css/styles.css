@@ -681,7 +681,7 @@ img {
   line-height: 1.17;
 }
 
-.modal.span {
+.modal-span {
   width: 16px;
   height: 16px;
   margin-right: 8px;
@@ -698,7 +698,7 @@ img {
 
 .checkbox-input {
 }
-.checkbox-input:checked + .modal.span {
+.checkbox-input:checked .modal-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
@@ -723,7 +723,7 @@ img {
   margin-right: 0;
 }
 
-.modal.link {
+.modal-link {
   color: #4d5ae5;
 }
 
