@@ -601,6 +601,7 @@ img {
 
 .send-buttom {
   display: block;
+  margin: 0 auto;
   min-width: 169px;
   height: 56px;
   padding: 16px 32px;
@@ -726,7 +727,7 @@ img {
   color: #ffffff;
 }
 .footer-form-block {
-  margin-right: 0;
+  margin-left: auto;
 }
 
 .modal-link {
