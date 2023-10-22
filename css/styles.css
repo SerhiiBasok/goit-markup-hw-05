@@ -640,7 +640,7 @@ img {
 .modal-label {
   display: block;
   margin-bottom: 4px;
-  color: #8e8f99;
+  color: #fff;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -675,6 +675,7 @@ img {
   letter-spacing: 0.04em;
   line-height: 1.17;
   padding: 8px 16px;
+  display: inline-block;
 }
 
 .modal-text:focus {
@@ -686,6 +687,7 @@ img {
   font-size: 12px;
   letter-spacing: 0.04em;
   line-height: 1.17;
+  display: inline-block;
 }
 
 .modal-span {
