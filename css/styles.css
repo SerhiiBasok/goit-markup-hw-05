@@ -640,8 +640,9 @@ img {
 .modal-label {
   display: block;
   margin-bottom: 4px;
-  color: #fff;
+  color: #8e8f99;
   font-size: 12px;
+
   line-height: 1.17;
   letter-spacing: 0.04em;
 }
@@ -783,6 +784,9 @@ img {
   gap: 24px;
 }
 
+.footer-input {
+  color: #fff;
+}
 .btn-ico {
   margin-left: 16px;
   fill: #ffffff;
